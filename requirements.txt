@@ -1,0 +1,9 @@
+# Nach dem ersten Build Versionen festschreiben (FAIR):
+#   docker run --rm ostsee-gotm pip freeze > requirements.txt
+xarray
+netCDF4
+matplotlib
+numpy
+pandas
+pyyaml
+jupyterlab
